@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trzeciak Konrad aka @KTrz3ciak
-- 👀 I’m interested in JS / NodeJS / Angular
-- 🌱 I’m currently learning JS / NodeJS / Angular
+- 👀 I’m interested in JS / NodeJS / Angular / React
+- 🌱 I’m currently learning JS / NodeJS / Angular / React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
